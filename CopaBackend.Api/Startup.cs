@@ -28,6 +28,7 @@ namespace CopaBackend.Api
         {
             services.AddTransient<ITeamService, TeamService>();
 
+            services.AddCors(Options => Options.AddPolicy("AllowAll", p => p.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
             services.AddControllers();
         }
 
@@ -40,10 +41,11 @@ namespace CopaBackend.Api
             }
 
             app.UseHttpsRedirection();
-
+            app.UseCors("AllowAll");
             app.UseRouting();
 
-            app.UseAuthorization();
+
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
