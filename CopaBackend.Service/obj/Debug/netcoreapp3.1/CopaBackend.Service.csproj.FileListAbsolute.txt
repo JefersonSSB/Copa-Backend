@@ -1,0 +1,23 @@
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.deps.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.csprojAssemblyReference.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.AssemblyInfoInputs.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.AssemblyInfo.cs
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.csproj.CopyComplete
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.deps.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Service.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.csprojAssemblyReference.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.AssemblyInfoInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.AssemblyInfo.cs
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.csproj.CoreCompileInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.csproj.CopyComplete
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Service\obj\Debug\netcoreapp3.1\CopaBackend.Service.pdb

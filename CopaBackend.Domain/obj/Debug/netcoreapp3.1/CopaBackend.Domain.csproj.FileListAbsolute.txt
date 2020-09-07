@@ -1,0 +1,17 @@
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.deps.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.AssemblyInfoInputs.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.AssemblyInfo.cs
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.csprojAssemblyReference.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.deps.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.csprojAssemblyReference.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.AssemblyInfo.cs
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Domain\obj\Debug\netcoreapp3.1\CopaBackend.Domain.pdb

@@ -1,0 +1,54 @@
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.exe
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.deps.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.runtimeconfig.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.runtimeconfig.dev.json
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Service.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Service.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.csprojAssemblyReference.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\staticwebassets\CopaBackend.Api.StaticWebAssets.Manifest.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\staticwebassets\CopaBackend.Api.StaticWebAssets.xml
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.AssemblyInfoInputs.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.AssemblyInfo.cs
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.RazorTargetAssemblyInfo.cache
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.csproj.CopyComplete
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.pdb
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Projects\Jefim\Refactoring\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.exe
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.deps.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.runtimeconfig.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.runtimeconfig.dev.json
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Api.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Domain.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Service.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Domain.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\bin\Debug\netcoreapp3.1\CopaBackend.Service.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.csprojAssemblyReference.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.AssemblyInfoInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.AssemblyInfo.cs
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.csproj.CoreCompileInputs.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.RazorTargetAssemblyInfo.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.csproj.CopyComplete
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\staticwebassets\CopaBackend.Api.StaticWebAssets.Manifest.cache
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\staticwebassets\CopaBackend.Api.StaticWebAssets.xml
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.dll
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.pdb
+C:\Users\jefer\OneDrive\Área de Trabalho\Squadra\Copa-Backend\Copa-Backend\CopaBackend.Api\obj\Debug\netcoreapp3.1\CopaBackend.Api.genruntimeconfig.cache
