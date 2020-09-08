@@ -18,10 +18,13 @@ namespace CopaBackend.Domain
 
         private static Team Mach(Team team1, Team team2)
         {
+            //Retorna o time que tem mais gols, caso de empate, passa para as proximas condições
             if (team1.Gols > team2.Gols)
                 return team1;
             else if (team1.Gols < team2.Gols)
                 return team2;
+
+            //Pergunta de existe numeros nos 2 nomes, se sim pega esse numeros compara e retorna o que time que tiver menor numero
             else if (team1.Nome.Where(c => char.IsNumber(c)).Count() > 0 && team2.Nome.Where(c => char.IsNumber(c)).Count() > 0)
             {
                 string teamHaveNumber1 = string.Join("", System.Text.RegularExpressions.Regex.Split(team1.Nome, @"[^\d]"));
@@ -34,6 +37,7 @@ namespace CopaBackend.Domain
             }
             else
             {
+                // caso não tenha numero compara por ordem alfabetica
                 if (string.Compare(team1.Nome, team2.Nome) < 0)
                     return team2;
                 else
