@@ -27,7 +27,6 @@ namespace CopaBackend.Api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<ITeamService, TeamService>();
-
             services.AddCors(Options => Options.AddPolicy("AllowAll", p => p.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()));
             services.AddControllers();
         }
