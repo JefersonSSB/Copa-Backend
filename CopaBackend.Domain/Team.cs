@@ -51,7 +51,12 @@ namespace CopaBackend.Domain
             if (teams.GroupBy(a => a.Nome).Any(a => a.Count() > 1))
                 throw new Exception("Os times devem ter nomes únicos.");
 
+
+            //Ordenação da Lista
+
             List<Team> OrdenedTeam = teams.OrderBy(x => x.Nome).ToList();
+
+            //Separação da Lista em 8 times
 
             Team team1 = OrdenedTeam.ElementAt(0);
             Team team2 = OrdenedTeam.ElementAt(1);
@@ -62,17 +67,23 @@ namespace CopaBackend.Domain
             Team team7 = OrdenedTeam.ElementAt(6);
             Team team8 = OrdenedTeam.ElementAt(7);
 
+            //Disputa da primeira rodada
+
             Team WinnerPhaseOne1 = Mach(team1, team8);
             Team WinnerPhaseOne2 = Mach(team2, team7);
             Team WinnerPhaseOne3 = Mach(team3, team6);
             Team WinnerPhaseOne4 = Mach(team4, team5);
 
+            //Disputa da segunda rodada com os ganhadores da primeira rodada
+
             Team WinnerPhaseTwo1 = Mach(WinnerPhaseOne1, WinnerPhaseOne4);
             Team WinnerPhaseTwo2 = Mach(WinnerPhaseOne2, WinnerPhaseOne3);
 
+            //Disputa final com os ganhadores da segunda rodada 
+
             Team WinnerFinal = Mach(WinnerPhaseTwo1, WinnerPhaseTwo2);
 
-
+            //Setando os ganhadores 
             if (WinnerFinal.Nome.Equals(WinnerPhaseTwo1.Nome))
             {
                 winners.Add(Winner.New(WinnerPhaseTwo1.Nome, 1));
